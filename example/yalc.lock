@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "packages": {
+    "@rnhooks/template": {
+      "signature": "6e1edee38025a6e62bba29e139aa7251",
+      "file": true
+    },
+    "@rnhooks/camera-roll": {
+      "signature": "a6a013a3430229280d1ac990835efb2b",
+      "file": true
+    }
+  }
+}
